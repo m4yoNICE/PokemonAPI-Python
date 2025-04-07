@@ -1,3 +1,11 @@
+#Team Name: Kairon 07
+#Team Members:
+#Roswell Rey Ceniza
+#Jan Michael Cabahug
+#Jhun Kenneth Curacha
+#Jasper Tabanag
+#Jared Eli Daniot
+
 from pokemon_api import get_pokemon_data
 from input_feature import get_user_input, confirm_continue
 from error_handling import handle_error, log_info
